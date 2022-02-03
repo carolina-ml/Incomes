@@ -4,6 +4,7 @@
 - [ ] decidir a estrutura de banco (.csv)
 - [ ] ler o .csv com o método dict reader
 - [ ] testar a leitura da tabela do banco
+- [ ] criar a tabela .csv
 
 
 ## Done
